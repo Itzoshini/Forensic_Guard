@@ -39,17 +39,14 @@ pip install -r requirements.txt
 ## Configuration - API Keys / Credentials
 1. Email Alerts (Gmail)
  Go to Google Account Security Settings
-
-2.Enable 2-Step Verification
-
-3.Click App Passwords and generate one for "Mail"
+2. Enable 2-Step Verification
+3. Click App Passwords and generate one for "Mail"
 
 
-##🏃‍♀️ How to Run
+🏃‍♀️ How to Run
 1. Make sure you have Python installed.
-
-2.Run the main script:
-```python forensic_guard.py```
+2. Run the main script:
+```python forensicaguard.py```
 {
   "email": "sender_email@example.com",
   "password": "your_email_app_password",

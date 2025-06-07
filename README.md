@@ -1,6 +1,6 @@
 # 🛡️ Forensic_Guard
 
-ForensicaGuard is a Python-based real-time forensic data collector and intrusion pattern monitor. It captures system, file, and network activities, detects suspicious behaviors like brute-force or DoS attacks, logs digital evidence, and sends alerts via email or SMS.
+Forensic_Guard is a Python-based real-time forensic data collector and intrusion pattern monitor. It captures system, file, and network activities, detects suspicious behaviors like brute-force or DoS attacks, logs digital evidence, and sends alerts via email or SMS.
 
 
 
